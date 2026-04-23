@@ -11,7 +11,7 @@ The solution enables identification of churn patterns, customer segmentation, an
 
 ## 🏗️ Architecture Diagram
 
-![Customer Churn Architecture](docs/architecture.png)
+![Customer Churn Architecture](/architecture.png)
 
 
 🏗️ Architecture
