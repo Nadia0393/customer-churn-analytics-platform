@@ -9,6 +9,11 @@ It implements a Medallion Architecture (Bronze, Silver, Gold) to process raw tel
 
 The solution enables identification of churn patterns, customer segmentation, and KPI-based reporting to support data-driven decision-making.
 
+## 🏗️ Architecture Diagram
+
+![Customer Churn Architecture](docs/architecture.png)
+
+
 🏗️ Architecture
 
 The pipeline follows a Medallion Architecture:
